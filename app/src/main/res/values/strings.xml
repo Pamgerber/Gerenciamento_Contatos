@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AgendaTelefone</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cadastro_contatos">Contatos</string>
+    <string name="lnl_Nome">Nome</string>
+    <string name="lnl_Telefone">Telefone</string>
+    <string name="lnl_Email">E-mail</string>
+    <string name="lnl_Endereco">Endereço</string>
+    <string name="lnl_DatasEspeciais">Datas Especiais</string>
+    <string name="lnl_Notas">Notas</string>
+
+    <string name="lnl_salvar">Salvar</string>
+    <string name="lnl_alterar">Alterar</string>
+    <string name="lnl_excluir">Excluir</string>
+    <string name="titulo_aviso">Aviso</string>
+    <string name="mensagem_campos_invalidos_brancos">Existe campos inválidos ou em branco!</string>
+    <string name="lnl_ok">OK</string>
+</resources>
